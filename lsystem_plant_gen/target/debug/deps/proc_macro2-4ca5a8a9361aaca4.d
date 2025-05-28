@@ -1,0 +1,10 @@
+/Users/shantanusingh/Documents/Coding Projects/Rust-Journey/lsystem_plant_gen/target/debug/deps/libproc_macro2-4ca5a8a9361aaca4.rmeta: /Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs /Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs /Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs /Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs
+
+/Users/shantanusingh/Documents/Coding Projects/Rust-Journey/lsystem_plant_gen/target/debug/deps/libproc_macro2-4ca5a8a9361aaca4.rlib: /Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs /Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs /Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs /Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs
+
+/Users/shantanusingh/Documents/Coding Projects/Rust-Journey/lsystem_plant_gen/target/debug/deps/proc_macro2-4ca5a8a9361aaca4.d: /Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs /Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs /Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs /Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs
+
+/Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs:
+/Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs:
+/Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs:
+/Users/shantanusingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs:
