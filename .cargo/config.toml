@@ -1,0 +1,4 @@
+[build]
+# This makes all builds in this workspace dump artifacts here,
+# instead of in each crate’s own `target/`
+target-dir = "target"

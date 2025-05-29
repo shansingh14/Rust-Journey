@@ -5,6 +5,3 @@ edition = "2024"
 
 [dependencies]
 minifb = "0.28"
-
-[profile.dev.package."*"]
- opt-level = 3
